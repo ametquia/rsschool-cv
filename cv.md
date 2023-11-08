@@ -1,14 +1,16 @@
-[rsshool-cv](https://ametquia.github.io/rsschool-cv/cv)
-
 # Oleksii Ovsiannikov
 
 ## contact information:
 
 **Phone:** +34686494633
 
-**E-mail:** bcnzap@gmail.com
+[E-mail](bcnzap@gmail.com)
+
 
 [Linkedin](linkedin.com/in/alex-ovsiannikov-427a2b227)
+
+
+[gitHub](https://github.com/ametquia)
 
 ******
 
