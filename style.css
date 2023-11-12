@@ -1,9 +1,10 @@
-.name{
+.name {
     font:
-    bold calc(0.025 * (100vw)) Arial,
-    sans-serif;
+        bold calc(0.025 * (100vw)) Arial,
+        sans-serif;
 }
-img{
+
+img {
     margin-bottom: 10px;
     border: 10px solid var(--pink-color);
     border-radius: 50%;
@@ -11,6 +12,11 @@ img{
 
 h1 {
     font:
-      bold calc(0.025 * (100vw)) Arial,
-      sans-serif;
-  }
+        bold calc(0.025 * (100vw)) Arial,
+        sans-serif;
+}
+
+h1,
+h2 {
+    margin: 0;
+}
